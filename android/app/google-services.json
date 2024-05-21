@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836886742450",
+    "project_id": "minesort",
+    "storage_bucket": "minesort.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836886742450:android:c3f0a2ec5bcdd8cf2bd0ab",
+        "android_client_info": {
+          "package_name": "de.minesort.minesortv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbpmQfDEKmW2lkrNQkkO0O8grVBDWD19g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
